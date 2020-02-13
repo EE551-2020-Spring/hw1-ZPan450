@@ -17,7 +17,7 @@ def numbers_and_strings():
     y = "Stevens"
 
     # Repeat variable y 5 times
-    z = y + y + y + y + y
+    z = y * 5
 
     # What is the length of z?
     length = len(z)
